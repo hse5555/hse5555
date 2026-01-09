@@ -63,8 +63,8 @@
 **AR:** أرحب دائماً بمناقشة المبادرات التي تهدف إلى إحداث تغيير جذري وقفزات نوعية في عالم التكنولوجيا والأعمال.
 **EN:** I always welcome discussions on initiatives aimed at creating radical change and qualitative leaps in the world of technology and business.
 
-* 📫 **Email:** [Your Professional Email]
-* 🔗 **LinkedIn:** [Your Link Here]
+* 📫 **Email:** hsemse@gmail.com
+* 🔗 **LinkedIn:** https://www.linkedin.com/in/hesham-saad
 
 ---
 
